@@ -1,4 +1,4 @@
-// import { ObjectID } from '../../../../.cache/typescript/2.6/node_modules/@types/bson';
+require('./config/config');
 
 const _ = require('lodash');
 const express = require('express');
